@@ -1,0 +1,16 @@
+.create {
+    background-color: #76AE81;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 1vmin);
+  }
+
+.content {
+    align-items: center;
+    justify-content: center;
+  }
+
+.button {
+  display: block;
+}
